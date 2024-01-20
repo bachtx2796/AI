@@ -71,4 +71,15 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    // Facebook Login
+    implementation("com.facebook.android:facebook-login:12.0.0")
+
+    // Google Sign-In
+    implementation("com.google.android.gms:play-services-auth:19.2.0")
+
+    // Apple Sign-In
+    implementation("com.apple.signin:apple-signin:1.1.0")
+    implementation("com.willowtreeapps:signinwithapplebutton:0.3")
+
 }

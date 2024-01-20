@@ -11,6 +11,7 @@ import androidx.activity.ComponentActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.myapplication.ui.theme.LocationActivity
+import com.example.myapplication.ui.theme.SocialLoginActivity
 import com.example.myapplication.ui.theme.UploadActivity
 
 class MainActivity : ComponentActivity() {

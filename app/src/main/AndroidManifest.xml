@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         tools:targetApi="31">
         <activity
-            android:name=".SocialLoginActivity"
+            android:name=".ui.theme.SocialLoginActivity"
             android:exported="false" />
         <activity
             android:name=".ui.theme.UploadActivity"
